@@ -1,6 +1,6 @@
 /**
- * Name - Darsh patel (B00940382)
- *  Course - CSCI 1110 Assignment 5
+ * Name - Darsh patel 
+ *  Course - CSCI 1110 (Dalhousie University)
  * Date - April 6, 2023
  * Purpose - The purpose of this class is to set up an EarthGrid which represents earth and put oceans and land on
  * different indexes according to user inout. we also place bottles on the earthGrid which we will use in a later
