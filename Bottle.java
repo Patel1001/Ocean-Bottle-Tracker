@@ -1,6 +1,6 @@
 /**
- * Name - Darsh patel (B00940382)
- *  Course - CSCI 1110 Assignment 5
+ * Name - Darsh patel 
+ *  Course - CSCI 1110 (Dalhousie University)
  * Date - April 6, 2023
  * Purpose - The purpose of this class is being a  blueprint for a bottle object. We have instance variables and methods
  * to track the movement of the bottle throughout the grid until it reached land and methods to access the bottle
