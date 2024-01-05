@@ -1,6 +1,6 @@
 /**
- * Name - Darsh patel (B00940382)
- *  Course - CSCI 1110 Assignment 5
+ * Name - Darsh patel 
+ *  Course - CSCI 1110 (Dalhousie University)
  * Date - April 6, 2023
  * Purpose - The purpose of this problem is to take in inputs to set up the grid and the bottle information and track
  * the bottle movement throughout the ocean until it reaches land. This problem builds on problem1 and prints out the
