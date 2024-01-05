@@ -1,6 +1,6 @@
 /**
- * Name - Darsh patel (B00940382)
- *  Course - CSCI 1110 Assignment 5
+ * Name - Darsh patel 
+ *  Course - CSCI 1110 (Dalhousie University)
  * Date - April 6, 2023
  * Purpose - The purspose of this class is to be a blueprint for the earthgrid. We create a earthGrid object here with
  * instance variables like rows, columns and an array and store the ocean and land coordinates as well as diretion
